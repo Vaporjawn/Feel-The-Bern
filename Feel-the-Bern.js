@@ -1,3 +1,4 @@
+//This is the main stuff
 function Bernie(ratio, imageurl){
 	this.ratio = ratio;
 	this.imageurl = imageurl;

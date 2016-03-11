@@ -44,6 +44,7 @@ new Bernie("horizontal", "http://i2.cdn.turner.com/cnnnext/dam/assets/1506151426
 new Bernie("horizontal", "http://www.thenation.com/wp-content/uploads/2015/07/bernie_sanders_bw_otu_img.jpg"),
 new Bernie("horizontal", "https://i.ytimg.com/vi/kefeEqjZOMU/maxresdefault.jpg"),
 new Bernie("horizontal", "http://media.npr.org/assets/img/2015/12/10/ap_896138486979_wide-a39c37e030345bc1e345f6be2bfdcdd4a09fae4a-s900-c85.jpg"),
+new Bernie("horizontal", "http://www.motherjones.com/files/berniemayor.jpg"),
 new Bernie("horizontal", "http://static01.nyt.com/images/2015/07/03/us/04Sanders-web-01/04Sanders-web-01-facebookJumbo.jpg"),
 new Bernie("vertical", "http://i.imgur.com/Iv6L3Zi.jpg"),
 new Bernie("vertical", "http://www.unionleader.com/storyimage/UL/20150429/NEWS0602/150439941/AR/0/AR-150439941.jpg?q=100"),

@@ -1,4 +1,5 @@
 //This is the main stuff
+//@todoslosdays
 function Bernie(ratio, imageurl){
 	this.ratio = ratio;
 	this.imageurl = imageurl;
